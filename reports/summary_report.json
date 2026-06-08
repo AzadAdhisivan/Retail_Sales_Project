@@ -1,0 +1,90 @@
+{
+  "total_rows": 9994,
+  "total_sales": 2297200.86,
+  "average_discount_pct": 15.62,
+  "duplicate_order_ids": 2471,
+  "top_10_products": [
+    {
+      "product": "Canon imageCLASS 2200 Advanced Copier",
+      "sales": 61599.82
+    },
+    {
+      "product": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+      "sales": 27453.38
+    },
+    {
+      "product": "Cisco TelePresence System EX90 Videoconferencing Unit",
+      "sales": 22638.48
+    },
+    {
+      "product": "HON 5400 Series Task Chairs for Big and Tall",
+      "sales": 21870.58
+    },
+    {
+      "product": "GBC DocuBind TL300 Electric Binding System",
+      "sales": 19823.48
+    },
+    {
+      "product": "GBC Ibimaster 500 Manual ProClick Binding System",
+      "sales": 19024.5
+    },
+    {
+      "product": "Hewlett Packard LaserJet 3310 Copier",
+      "sales": 18839.69
+    },
+    {
+      "product": "HP Designjet T520 Inkjet Large Format Printer - 24\" Color",
+      "sales": 18374.9
+    },
+    {
+      "product": "GBC DocuBind P400 Electric Binding System",
+      "sales": 17965.07
+    },
+    {
+      "product": "High Speed Automatic Electric Letter Opener",
+      "sales": 17030.31
+    }
+  ],
+  "top_10_customers": [
+    {
+      "customer": "Sean Miller",
+      "sales": 25043.05
+    },
+    {
+      "customer": "Tamara Chand",
+      "sales": 19052.22
+    },
+    {
+      "customer": "Raymond Buch",
+      "sales": 15117.34
+    },
+    {
+      "customer": "Tom Ashbrook",
+      "sales": 14595.62
+    },
+    {
+      "customer": "Adrian Barton",
+      "sales": 14473.57
+    },
+    {
+      "customer": "Ken Lonsdale",
+      "sales": 14175.23
+    },
+    {
+      "customer": "Sanjit Chand",
+      "sales": 14142.33
+    },
+    {
+      "customer": "Hunter Lopez",
+      "sales": 12873.3
+    },
+    {
+      "customer": "Sanjit Engle",
+      "sales": 12209.44
+    },
+    {
+      "customer": "Christopher Conant",
+      "sales": 12129.07
+    }
+  ]
+}
