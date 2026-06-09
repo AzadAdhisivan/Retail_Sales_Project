@@ -1,0 +1,6 @@
+data/Sample - Superstore.csv
+data/cleaned_superstore.csv
+reports/*.png
+__pycache__/
+*.pyc
+.env
